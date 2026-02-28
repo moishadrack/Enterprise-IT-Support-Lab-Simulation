@@ -43,5 +43,5 @@ Place your screenshots in `screenshots/` folder and reference here, e.g.:
 - ![AD Installed](Screenshots/ad-installed.png)  
 - ![Users Created](Screenshots/users-created.png)  
 - ![GPO Policy](Screenshots/gpo-policy.jpeg)  
-- ![Shared Folder Permissions](Screenshots/shared-folder.jpeg)  
+- ![Shared Folder Permissions](Screenshots/shadred-folder.jpeg)  
 
