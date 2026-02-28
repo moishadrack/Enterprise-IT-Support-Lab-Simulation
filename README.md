@@ -40,8 +40,8 @@ Simulate an enterprise IT support environment to practice troubleshooting, Activ
 ## Screenshots
 Place your screenshots in `screenshots/` folder and reference here, e.g.:
 
-- ![AD Installed](screenshots/ad-installed.png)  
-- ![Users Created](screenshots/users-created.png)  
-- ![GPO Policy](screenshots/gpo-policy.png)  
-- ![Shared Folder Permissions](screenshots/shared-folder.png)  
+- ![AD Installed](Screenshots/ad-installed.png)  
+- ![Users Created](Screenshots/users-created.png)  
+- ![GPO Policy](Screenshots/gpo-policy.png)  
+- ![Shared Folder Permissions](Screenshots/shared-folder.png)  
 
