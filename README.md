@@ -44,4 +44,4 @@ Place your screenshots in `screenshots/` folder and reference here, e.g.:
 - ![Users Created](screenshots/users-created.png)  
 - ![GPO Policy](screenshots/gpo-policy.png)  
 - ![Shared Folder Permissions](screenshots/shared-folder.png)  
-- ![Event Viewer Logs](screenshots/event-viewer.png)
+
